@@ -1,50 +1,167 @@
 # Ex.No.4-EXP 4 Generate the Prompt and eveluate that for following prompt types - Comparative Analysis Prompt Experiential Perspective Prompt - Everyday Functioning Prompts - Universal Prompt Structures Prompt Refinements- Prompt Size Limitations.
-### DATE:                                                                            
-### REGISTER NUMBER : 
-### Aim: To write the prompt for the following prompt types and ompare that with differenet AI tools and evaluate that using any one evaluation method (eg. Rubrics). 1.Comparative Analysis Prompt 2. Experiential Perspective Prompt 3. Everyday Functioning Prompts 4. Universal Prompt Structures Prompt Refinements 5. Prompt Size Limitations design an AI 
+### DATE:17/09/2025                                                                         
+### REGISTER NUMBER : 212223090008
+### Aim: 
+To write the prompt for the following prompt types and ompare that with differenet AI tools and evaluate that using any one evaluation method (eg. Rubrics).
+1.Comparative Analysis Prompt
+2. Experiential Perspective Prompt 
+3. Everyday Functioning Prompts 
+4. Universal Prompt Structures Prompt Refinements 
+5. Prompt Size Limitations design an AI 
 
-### Explanation - Any one use case from Unit 5 and write the prompt for that with the unit 2 Prompt types given above.
+## **2. Comparative Analysis Prompt**
 
-Procedure:
-1.	Define the Scenario and Use Case:
-Scenario:
-The manufacturing industry is looking to reduce manual monitoring and increase efficiency through automation. The system will utilize IoT devices and embedded controllers to automate equipment, monitor performance, and enable predictive maintenance. The goal is to streamline the production process, minimize downtime, and enhance energy efficiency.
-Target Audience:
-Manufacturing companies, specifically in sectors like automotive, electronics, and food processing, where automation can significantly improve productivity.
+### **Prompt Generation**
 
-Main Objectives:
+* *Example 1:* “Compare the economic policies of India and China in terms of industrial growth, foreign investment, and technological advancement.”
+* *Example 2:* “Compare the advantages and disadvantages of renewable energy sources (solar, wind, hydro) in addressing climate change.”
 
-•	Improve production efficiency by 30%.
-•	Minimize machinery downtime with predictive maintenance.
-•	Enable real-time monitoring and remote control of manufacturing systems.
-•	Reduce energy consumption by optimizing processes.
- 
-2.	Identify Prompt Patterns for Each Design Aspect:
-Idea Generation Prompts:
+### **Evaluation**
 
-Comparative Analysis Prompt
-Definition: Asking for a comparison between two or more concepts, often highlighting similarities and differences.
-•	"Compare and contrast deep learning and machine learning."
-•	"How do renewable and non-renewable energy sources differ?"
+Comparative Analysis prompts encourage the model to engage in critical thinking by highlighting **similarities and differences**. These prompts are particularly useful for academic contexts, debates, or research discussions.
 
-Experiential Perspective Prompt:
-> 	“As a software engineer, what are the benefits of using cloud computing in your projects?”
->  “From a student’s perspective, describe the challenges of online learning.”
+* **Strengths:**
 
-Everyday Functioning Prompts:
-*	  “Describe the role of machine learning in everyday apps like YouTube or Netflix."
-*	 	“How is encryption used in daily life when sending WhatsApp messages?”
+  * Encourages structured analysis.
+  * Produces multi-dimensional perspectives.
+  * Useful for decision-making and policy discussions.
 
-Universal Prompt Structures:
-^ 	“Explain [concept] in simple terms with an example.”
-^  “Explain the process of [task] step by step.”
+* **Limitations:**
 
-Prompt Size Limitations:
-&  	“Translate this 5000-word essay into Tamil.”
-→ Manageable chunks: “Translate the first 1000 words into Tamil, then continue.”
-&  “Give me 50 examples of AI applications.”
-→ Adjust for size: “Give me 10 AI applications at a time.”
+  * May lead to biased responses if the model is influenced by data imbalance.
+  * Requires precise framing to avoid vague comparisons.
 
+**Verdict:** Highly effective for tasks requiring structured comparisons, but must be framed with **clear parameters**.
+
+
+
+## **3. Experiential Perspective Prompt**
+
+### **Prompt Generation**
+
+* *Example 1:* “Describe the challenges faced during your first day at university from a student’s perspective.”
+* *Example 2:* “Imagine you are a nurse in an emergency ward. Share your experience of managing patients during a critical situation.”
+
+### **Evaluation**
+
+Experiential Perspective prompts place the model in a **first-person or role-based viewpoint**, enhancing **empathy and relatability**.
+
+* **Strengths:**
+
+  * Generates vivid, story-like responses.
+  * Creates human-centered narratives.
+  * Effective in simulations, role-playing, and scenario-based learning.
+
+* **Limitations:**
+
+  * Responses may lack authenticity if the model is not trained deeply on similar experiences.
+  * Risk of generating generalized stereotypes instead of nuanced perspectives.
+
+**Verdict:** Strong for **storytelling and role-play**, but requires careful validation in professional or sensitive contexts.
+
+---
+
+## **4. Everyday Functioning Prompts**
+
+### **Prompt Generation**
+
+* *Example 1:* “List five healthy breakfast options that can be prepared in under 10 minutes.”
+* *Example 2:* “How can I organize my daily schedule to balance study, exercise, and social activities?”
+
+### **Evaluation**
+
+Everyday Functioning prompts focus on **practical life solutions**, making AI more accessible in **day-to-day living**.
+
+* **Strengths:**
+
+  * Provides actionable suggestions.
+  * Highly relatable to users.
+  * Enhances AI’s utility in lifestyle, productivity, and well-being.
+
+* **Limitations:**
+
+  * May oversimplify complex real-world issues.
+  * Lacks adaptability for very specific personal conditions.
+
+**Verdict:** Excellent for **lifestyle guidance and problem-solving**, though personalization is limited.
+
+
+
+## **5. Universal Prompt Structures**
+
+### **Prompt Generation**
+
+* *Example 1:* “Summarize the key points of this article in three bullet points.”
+* *Example 2:* “Generate five interview questions with answers for a software engineering role.”
+* *Example 3:* “Translate this paragraph into French.”
+
+### **Evaluation**
+
+Universal prompt structures are **template-based** and widely applicable across multiple domains. They often include **command verbs** like *summarize, generate, translate, compare, list*.
+
+* **Strengths:**
+
+  * Standardized and reusable.
+  * Suitable for both beginners and advanced users.
+  * Easy for AI to process due to clear instructions.
+
+* **Limitations:**
+
+  * May reduce creativity if overused.
+  * Outputs risk becoming formulaic.
+
+**Verdict:** Reliable and versatile, but should be combined with **creative variations** to enhance outcomes.
+
+---
+
+## **6. Prompt Refinements and Size Limitations**
+
+### **Prompt Generation**
+
+* *Initial Prompt:* “Explain AI.”
+* *Refined Prompt:* “Explain Artificial Intelligence in simple terms, focusing on how it is used in smartphones, healthcare, and education, within 200 words.”
+
+### **Evaluation**
+
+Refinement improves clarity and ensures **focused responses**. However, **size limitations** also play a key role: overly long prompts may confuse the model, while overly short prompts may lack context.
+
+* **Strengths of Refinement:**
+
+  * Improves precision and relevance.
+  * Allows control over output size, tone, and complexity.
+
+* **Challenges with Size:**
+
+  * Too short → vague, generic answers.
+  * Too long → risk of misinterpretation or losing focus.
+
+**Verdict:** Prompt refinement is critical for **professional and academic contexts**. Optimal prompt size should balance **context richness with clarity**.
+
+---
+
+## **7. Comparative Evaluation of All Prompt Types**
+
+| **Prompt Type**               | **Best Use Case**                                 | **Strengths**                              | **Limitations**                             |
+| ----------------------------- | ------------------------------------------------- | ------------------------------------------ | ------------------------------------------- |
+| Comparative Analysis          | Research, debates, policy evaluation              | Structured insights, multiple perspectives | Risk of bias if poorly framed               |
+| Experiential Perspective      | Storytelling, simulations, empathy-based learning | Relatable, human-centered                  | May lack authenticity in sensitive contexts |
+| Everyday Functioning          | Lifestyle, productivity, decision-making          | Actionable, practical                      | Limited personalization                     |
+| Universal Prompt Structures   | Academic, general use, translation                | Standardized, reusable                     | Can become repetitive                       |
+| Refinement & Size Limitations | Academic, professional, technical writing         | Precision, focus, concise results          | Size imbalance affects quality              |
+
+---
+
+## **8. Conclusion**
+
+The exploration of prompt types highlights that **no single prompt type fits all needs**.
+
+* **Comparative Analysis** is best for structured, multi-perspective evaluation.
+* **Experiential Perspective** excels at empathy and storytelling.
+* **Everyday Functioning** makes AI practical for daily life.
+* **Universal Prompt Structures** provide reliability and efficiency.
+* **Refinements and Size Awareness** ensure clarity and focus.
+
+In practice, **blending these prompt strategies** ensures the most effective use of AI. The future of prompt engineering lies not in one method, but in **adaptive hybrid strategies** that balance creativity, precision, and usability.
 
 
 # Result: The various types of Prompts are executed successfully with generated the report.
