@@ -33,8 +33,6 @@ Comparative Analysis prompts encourage the model to engage in critical thinking 
 
 **Verdict:** Highly effective for tasks requiring structured comparisons, but must be framed with **clear parameters**.
 
-
-
 ## **3. Experiential Perspective Prompt**
 
 ### **Prompt Generation**
@@ -59,7 +57,7 @@ Experiential Perspective prompts place the model in a **first-person or role-bas
 
 **Verdict:** Strong for **storytelling and role-play**, but requires careful validation in professional or sensitive contexts.
 
----
+
 
 ## **4. Everyday Functioning Prompts**
 
@@ -149,7 +147,8 @@ Refinement improves clarity and ensures **focused responses**. However, **size l
 | Universal Prompt Structures   | Academic, general use, translation                | Standardized, reusable                     | Can become repetitive                       |
 | Refinement & Size Limitations | Academic, professional, technical writing         | Precision, focus, concise results          | Size imbalance affects quality              |
 
----
+
+<img width="1024" height="1536" alt="ChatGPT Image Sep 17, 2025, 03_29_49 PM" src="https://github.com/user-attachments/assets/82b0643b-e9f7-4fb4-901b-eeff601e80aa" />
 
 ## **8. Conclusion**
 
