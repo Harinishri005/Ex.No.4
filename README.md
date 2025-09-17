@@ -148,7 +148,6 @@ Refinement improves clarity and ensures **focused responses**. However, **size l
 | Refinement & Size Limitations | Academic, professional, technical writing         | Precision, focus, concise results          | Size imbalance affects quality              |
 
 
-<img width="1024" height="1536" alt="ChatGPT Image Sep 17, 2025, 03_29_49 PM" src="https://github.com/user-attachments/assets/82b0643b-e9f7-4fb4-901b-eeff601e80aa" />
 
 ## **8. Conclusion**
 
