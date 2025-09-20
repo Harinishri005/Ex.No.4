@@ -1,6 +1,7 @@
 # Ex.No.4-EXP 4 Generate the Prompt and eveluate that for following prompt types - Comparative Analysis Prompt Experiential Perspective Prompt - Everyday Functioning Prompts - Universal Prompt Structures Prompt Refinements- Prompt Size Limitations.
 ### DATE:17/09/2025                                                                         
 ### REGISTER NUMBER : 212223090008
+
 ### Aim: 
 To write the prompt for the following prompt types and ompare that with differenet AI tools and evaluate that using any one evaluation method (eg. Rubrics).
 1.Comparative Analysis Prompt
@@ -162,4 +163,5 @@ The exploration of prompt types highlights that **no single prompt type fits all
 In practice, **blending these prompt strategies** ensures the most effective use of AI. The future of prompt engineering lies not in one method, but in **adaptive hybrid strategies** that balance creativity, precision, and usability.
 
 
-# Result: The various types of Prompts are executed successfully with generated the report.
+# Result: 
+The various types of Prompts are executed successfully with generated the report.
